@@ -30,13 +30,13 @@ const books = {
             "Examines environmental thought through the histories of colonialism and slavery in the Caribbean. Ferdinand connects ecological concerns with questions of race, inequality, and colonial power."
     },
 
-    goldstein: {
-        title: "Remains of the Everyday",
-        author: "Joshua Goldstein",
-        image: "../assets/images/books/remains-everyday.png",
-        alt: "Cover of Remains of the Everyday",
+    lindtner: {
+        title: "Prototype Nation",
+        author: "Silvia M. Lindtner",
+        image: "../assets/images/books/prototype-nation.png",
+        alt: "Cover of Prototype Nation",
         description:
-            "Explores recycling, waste, and material culture in contemporary China. Goldstein examines how discarded objects move through informal economies and how everyday practices reveal wider social and economic transformations."
+        "Explores maker culture, technology, and innovation in contemporary China. Lindtner examines how making and entrepreneurship became tied to ideas of social and economic transformation, while questioning who benefits from the promise of innovation."
     },
 
     mccabe: {
