@@ -822,6 +822,30 @@ body {
     line-height: 1.6;
 }
 
+/* === MEMBER LINKS === */
+
+.member-links {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px 22px;
+    margin-top: 18px;
+}
+
+.member-links a {
+    color: var(--teal);
+    font-size: .8rem;
+    font-weight: 600;
+    text-decoration: none;
+    transition:
+        color 0.2s ease,
+        transform 0.2s ease;
+}
+
+.member-links a:hover {
+    color: var(--terra);
+    transform: translateX(3px);
+}
+
 /* =========================
    13. PROGRAMME PAGE
    ========================= */
